@@ -44,7 +44,7 @@ This project focuses on scalability, performance, and clean architecture.
 
 ## 🎥 Tutorial  
 Watch the full tutorial on YouTube here:  
-👉 [YouTube Tutorial](https://youtu.be/GOnSwI6GLEE)  
+👉 [YouTube Tutorial](https://youtu.be/su5J9bftVAA)  
 
 ---
 
