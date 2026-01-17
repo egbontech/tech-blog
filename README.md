@@ -1,5 +1,8 @@
 # 📝 Production-Ready Blog Platform
 
+<img width="1280" height="720" alt="blog-website (1)" src="https://github.com/user-attachments/assets/f26ec8bf-8915-4ed9-8264-922c42b6771c" />
+
+
 A modern, **production-ready blog platform** built with **Next.js** using real-world patterns — not demo shortcuts.  
 This project focuses on scalability, performance, and clean architecture.
 
